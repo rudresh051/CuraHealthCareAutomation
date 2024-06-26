@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-26T18:31:56Z" name="Default suite" finished-at="2024-06-26T18:32:01Z" duration-ms="4813">
+    <groups>
+    </groups>
+    <test started-at="2024-06-26T18:31:56Z" name="Default test" finished-at="2024-06-26T18:32:01Z" duration-ms="4813">
+      <class name="script.CuraHealthCare">
+        <test-method is-config="true" signature="commonsetup()[pri:0, instance:script.CuraHealthCare@338c99c8]" started-at="2024-06-27T00:01:56Z" name="commonsetup" finished-at="2024-06-27T00:02:00Z" duration-ms="4048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonsetup -->
+        <test-method signature="automationscript()[pri:0, instance:script.CuraHealthCare@338c99c8]" started-at="2024-06-27T00:02:00Z" name="automationscript" finished-at="2024-06-27T00:02:01Z" duration-ms="648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationscript -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:script.CuraHealthCare@338c99c8]" started-at="2024-06-27T00:02:01Z" name="teardown" finished-at="2024-06-27T00:02:01Z" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- script.CuraHealthCare -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
