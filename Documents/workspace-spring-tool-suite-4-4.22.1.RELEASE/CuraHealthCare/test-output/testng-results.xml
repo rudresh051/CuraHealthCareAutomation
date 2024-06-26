@@ -2,20 +2,20 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-26T18:31:56Z" name="Default suite" finished-at="2024-06-26T18:32:01Z" duration-ms="4813">
+  <suite started-at="2024-06-26T18:53:30Z" name="Default suite" finished-at="2024-06-26T18:53:39Z" duration-ms="8686">
     <groups>
     </groups>
-    <test started-at="2024-06-26T18:31:56Z" name="Default test" finished-at="2024-06-26T18:32:01Z" duration-ms="4813">
+    <test started-at="2024-06-26T18:53:30Z" name="Default test" finished-at="2024-06-26T18:53:39Z" duration-ms="8686">
       <class name="script.CuraHealthCare">
-        <test-method is-config="true" signature="commonsetup()[pri:0, instance:script.CuraHealthCare@338c99c8]" started-at="2024-06-27T00:01:56Z" name="commonsetup" finished-at="2024-06-27T00:02:00Z" duration-ms="4048" status="PASS">
+        <test-method is-config="true" signature="commonsetup()[pri:0, instance:script.CuraHealthCare@338c99c8]" started-at="2024-06-27T00:23:30Z" name="commonsetup" finished-at="2024-06-27T00:23:34Z" duration-ms="3983" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- commonsetup -->
-        <test-method signature="automationscript()[pri:0, instance:script.CuraHealthCare@338c99c8]" started-at="2024-06-27T00:02:00Z" name="automationscript" finished-at="2024-06-27T00:02:01Z" duration-ms="648" status="PASS">
+        <test-method signature="automationscript()[pri:0, instance:script.CuraHealthCare@338c99c8]" started-at="2024-06-27T00:23:34Z" name="automationscript" finished-at="2024-06-27T00:23:39Z" duration-ms="4538" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- automationscript -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:script.CuraHealthCare@338c99c8]" started-at="2024-06-27T00:02:01Z" name="teardown" finished-at="2024-06-27T00:02:01Z" duration-ms="104" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:script.CuraHealthCare@338c99c8]" started-at="2024-06-27T00:23:39Z" name="teardown" finished-at="2024-06-27T00:23:39Z" duration-ms="151" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
