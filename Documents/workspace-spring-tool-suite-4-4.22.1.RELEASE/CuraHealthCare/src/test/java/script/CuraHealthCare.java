@@ -38,7 +38,11 @@ public class CuraHealthCare {
 		
 		driver.findElement(By.className("checkbox-inline")).click();
 		driver.findElement(By.id("radio_program_none")).click();
-		driver.findElement(By.id("txt_visit_date")).click();
+		WebElement date_value = driver.findElement(By.id("txt_visit_date"));
+		date_value.sendKeys("27/06/2024");
+		driver.findElement(By.id("txt_comment")).sendKeys("Hello world");
+		driver.findElement(By.id("btn-book-appointment")).click();
+		
 		
 		Thread.sleep(3000);
 	}
